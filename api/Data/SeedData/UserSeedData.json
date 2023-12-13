@@ -1,0 +1,18 @@
+[
+  {
+    "Nickname": "Peter",
+    "IsGuest": true
+  },
+  {
+    "Nickname": "John",
+    "IsGuest": true
+  },
+  {
+    "Nickname": "Max",
+    "IsGuest": true
+  },
+  {
+    "Nickname": "Lamar",
+    "IsGuest": true
+  }
+]

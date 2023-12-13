@@ -1,0 +1,30 @@
+[
+  {
+    "Content": "hello",
+    "SenderId": 1,
+    "SenderNickname": "Peter",
+    "GroupId": 1,
+    "GroupName": "Music"
+  },
+  {
+    "Content": "hi",
+    "SenderId": 2,
+    "SenderNickname": "John",
+    "GroupId": 1,
+    "GroupName": "Music"
+  },
+  {
+    "Content": "hey",
+    "SenderId": 2,
+    "SenderNickname": "John",
+    "GroupId": 2,
+    "GroupName": "Movies"
+  },
+  {
+    "Content": "olia",
+    "SenderId": 3,
+    "SenderNickname": "Max",
+    "GroupId": 2,
+    "GroupName": "Movies"
+  }
+]
